@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="net.biancheng.www.AppTest" time="0.024" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="net.biancheng.www.AppTest" time="0.013" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -18,7 +18,7 @@
     <property name="user.country" value="CN"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="D:\jdk1.8.0_131\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\79330\AppData\Local\Temp\surefire6756632124350827730\surefirebooter2321112586984880616.jar C:\Users\79330\AppData\Local\Temp\surefire6756632124350827730 2021-04-06T09-21-46_868-jvmRun1 surefire4403261392147618357tmp surefire_03686728349827357113tmp"/>
+    <property name="sun.java.command" value="C:\Users\79330\AppData\Local\Temp\surefire6734210968442907124\surefirebooter3407101943826053581.jar C:\Users\79330\AppData\Local\Temp\surefire6734210968442907124 2021-04-06T09-23-32_181-jvmRun1 surefire8525817756899595108tmp surefire_07721616206980256317tmp"/>
     <property name="surefire.test.class.path" value="D:\eclipse workSpace 3\helloIdeaMaven\target\test-classes;D:\eclipse workSpace 3\helloIdeaMaven\target\classes;D:\myRepository\repository\junit\junit\4.11\junit-4.11.jar;D:\myRepository\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\79330"/>
@@ -31,7 +31,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\79330\AppData\Local\Temp\surefire6756632124350827730\surefirebooter2321112586984880616.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\79330\AppData\Local\Temp\surefire6734210968442907124\surefirebooter3407101943826053581.jar"/>
     <property name="sun.boot.class.path" value="D:\jdk1.8.0_131\jre\lib\resources.jar;D:\jdk1.8.0_131\jre\lib\rt.jar;D:\jdk1.8.0_131\jre\lib\sunrsasign.jar;D:\jdk1.8.0_131\jre\lib\jsse.jar;D:\jdk1.8.0_131\jre\lib\jce.jar;D:\jdk1.8.0_131\jre\lib\charsets.jar;D:\jdk1.8.0_131\jre\lib\jfr.jar;D:\jdk1.8.0_131\jre\classes"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -46,7 +46,6 @@
     <property name="localRepository" value="D:\myRepository\repository"/>
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
     <property name="java.io.tmpdir" value="C:\Users\79330\AppData\Local\Temp\"/>
-    <property name="idea.version" value="2020.3.3"/>
     <property name="java.version" value="1.8.0_131"/>
     <property name="user.dir" value="D:\eclipse workSpace 3\helloIdeaMaven"/>
     <property name="os.arch" value="amd64"/>
@@ -59,6 +58,7 @@
     <property name="java.vm.version" value="25.131-b11"/>
     <property name="java.ext.dirs" value="D:\jdk1.8.0_131\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="maven.repo.local" value="D:\myRepository\repository"/>
     <property name="java.class.version" value="52.0"/>
   </properties>
   <testcase name="shouldAnswerWithTrue" classname="net.biancheng.www.AppTest" time="0.001"/>
