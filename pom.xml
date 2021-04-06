@@ -5,16 +5,16 @@
 
     <groupId>net.biancheng.www</groupId>
     <artifactId>helloIdeaMaven</artifactId>
-    <version>2.5-SNAPSHOT</version>
+    <version>2.5</version>
 
     <name>helloIdeaMaven</name>
     <!-- FIXME change it to the project's website -->
     <url>http://www.example.com</url>
     <scm>
-        <url></url>
+        <url />
         <connection>scm:git:https://github.com/javmohan/helloIdeaMaven.git</connection>
         <developerConnection>scm:git:https://github.com/javmohan/helloIdeaMaven.git</developerConnection>
-        <tag>helloIdeaMaven-1.4</tag>
+        <tag>helloIdeaMaven-2.5</tag>
     </scm>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
