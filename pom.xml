@@ -89,6 +89,7 @@
                     <checkModificationExcludes>
                         <checkModificationExclude>.idea</checkModificationExclude>
                     </checkModificationExcludes>
+                    <autoVersionSubmodules>true</autoVersionSubmodules>
                 </configuration>
             </plugin>
 
